@@ -1,0 +1,40 @@
+body {
+    background-image:url("https://vignette.wikia.nocookie.net/portalworldsgame/images/1/10/Purple_Brick_Background.png/revision/latest?cb=20190611105024");
+   font-family: cursive;
+    height:100vh;
+    
+  }
+  
+  .menu {
+    background-color:white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style:none
+  }
+  
+  a {
+    color: #34495e;
+   text-decoration:none;
+  }
+  
+  a:hover {
+    text-decoration:underline;
+  }
+  
+  .site-title {
+    color: White;
+    font-size: 80px;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: White;
+    font-style: italic;
+    text-align: center;
+  }
